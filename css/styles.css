@@ -146,18 +146,20 @@
 
 .tech_row {
   height: 300px;
-  width: 25%;
+  width: 30%;
+  text-align: center;
 }
-
+.tech_table {text-align: center; margin: auto;}
 .tech {
   text-align: center;
   display: inline-block;
-  padding: 10px 100px;
+  padding-left: 0;
 }
 
 .tool_row {
   height: 40px;
   width: 400px;
+  text-align: center;
 }
 
 /* qualification_certification sheet */
